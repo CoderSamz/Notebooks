@@ -2,7 +2,7 @@
 
 #### 简约广州天气
 
-<img src="./Resource/images/gzweather.png"  alt="简约广州天气"  width=30%  height=30% />
+<img src="./Resource/images/gzweather.png"  alt="简约广州天气"  width=20%  height=20% />
 
 
 ### 博客
