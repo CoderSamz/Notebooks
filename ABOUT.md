@@ -7,7 +7,7 @@
 
 ### 博客
 
-* [掘金](https://juejin.cn/user/4089838984505581)
+* [掘金](https://juejin.cn/user/4089838984505581/posts)
 
 * [Github.io](https://codersamz.github.io)
 
