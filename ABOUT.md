@@ -1,3 +1,9 @@
+
+[![CoderSamz's github stats](https://github-readme-stats.vercel.app/api?username=CoderSamz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSamz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 作品
 
 #### 简约广州天气
@@ -18,4 +24,5 @@
 * 《在树莓派(Raspberry Pi)上运行SRS(Simple-RTMP-Server)》([掘金](https://juejin.cn/post/6844903614717100045)，[Github.io](https://codersamz.github.io/2018/05/30/%E5%9C%A8%E6%A0%91%E8%8E%93%E6%B4%BE(Raspberry%20Pi)%E4%B8%8A%E8%BF%90%E8%A1%8CSRS(Simple-RTMP-Server)/))
 * 《Xcode 文件头部注释模板自定义，不同Project不同注释模板🤪》([掘金](https://juejin.cn/post/6964136074100604941))
 * 《macOS Big Sur系统(macOS 11.4)下，Safari 无法调试iPhone 上的 Web》([掘金](https://juejin.cn/post/6979590698701946917))
+* 《在Podfile里尝试指定Flutter pod库的版本》([掘金](https://juejin.cn/post/7024710703919398943))
 
