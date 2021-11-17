@@ -12,9 +12,9 @@
 
 ### Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=flutter_shop)](https://github.com/CoderSamz/flutter_shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=flutter_shop&theme=dracula)](https://github.com/CoderSamz/flutter_shop)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=favor_cate)](https://github.com/CoderSamz/favor_cate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=favor_cate&theme=dracula)](https://github.com/CoderSamz/favor_cate)
 
 
 ### 博客
