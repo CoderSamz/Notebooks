@@ -10,6 +10,14 @@
 
 <img src="./Resource/images/gzweather.png"  alt="简约广州天气"  width=20%  height=20% />
 
+### Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=flutter_shop&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=favor_cate&theme=buefy" />
+</a>
 
 ### 博客
 
