@@ -12,10 +12,10 @@
 
 ### Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/CoderSamz/flutter_shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=flutter_shop" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/CoderSamz/favor_cate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderSamz&repo=favor_cate" />
 </a>
 
