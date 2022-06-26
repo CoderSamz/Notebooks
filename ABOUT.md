@@ -8,7 +8,7 @@
 
 #### 简约广州天气
 
-<img src="./Resource/images/gzweather.png"  alt="简约广州天气"  width=20%  height=20% />
+<img src="https://s1.ax1x.com/2022/06/26/jAuHPS.jpg"  alt="简约广州天气"  width=20%  height=20% />
 
 ### Repositories
 
